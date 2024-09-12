@@ -1,6 +1,0 @@
-Projeto de mini assistente virtual
-como usar:
-Ao executa-la, dizer:
-1. Abra no youtube + o nome do vídeo que deseja abrir no youtube
-2. Abrir excel
-3. Pesquisar + o assunto que deseja pesquisar
